@@ -17,9 +17,8 @@
 ->Global exception using Controller advice and ExceptionHandler
 ->Removed all hard coded data from the application code to application.propertiesa)
       by using
-      1.@Value.
-      2. @PropertySource
-      3.Used Environment interface
+      1.@Value
+      2.Used Environment interface
     
 ->Added Lombok plugin
 ->Provided a second implementation of MuzixService.
