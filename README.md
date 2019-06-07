@@ -5,7 +5,7 @@
 3.Updatecomments
 4.deletetrack
 5.gettrackbyname
-->Used h2-console and mysql
+->Used h2-console
 ->Added an endpoint to search trackByName. Understand @Query and parameter passing to@Query
 ->Generated API documentation using Swagger 2
 ->Created custom exceptions TrackNotFoundException, TrackAlreadyExistsException in a exceptions package.
